@@ -1,7 +1,8 @@
 
 ---
 
-### 📄 Predictive Sales Analytics Dashboard
+### 📄 README 2: Predictive Sales Analytics Dashboard
+*Copy and paste this into the `README.md` of your `Predictive-Sales-Analytics-Dashboard` repository.*
 
 ```markdown
 # 📈 Predictive Sales Analytics Dashboard
@@ -27,3 +28,10 @@ An interactive, data-driven web application that forecasts future revenue trends
 3. **Training**: Fits a `LinearRegression` model to identify the underlying trend in the historical data.
 4. **Prediction**: Extrapolates the learned trend into the future based on the user's selected "months to predict" slider.
 5. **Visualization**: Plots historical data (blue) and predicted data (red) on a unified timeline for clear comparison.
+
+## ⚙️ Setup & Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Lakshya96366/Predictive-Sales-Analytics-Dashboard.git
+   cd Predictive-Sales-Analytics-Dashboard
