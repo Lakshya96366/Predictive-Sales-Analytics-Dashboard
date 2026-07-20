@@ -2,7 +2,6 @@
 ---
 
 ### 📄 Predictive Sales Analytics Dashboard
-*Copy and paste this into the `README.md` of your `Predictive-Sales-Analytics-Dashboard` repository.*
 
 ```markdown
 # 📈 Predictive Sales Analytics Dashboard
