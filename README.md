@@ -28,9 +28,3 @@ An interactive, data-driven web application that forecasts future revenue trends
 4. **Prediction**: Extrapolates the learned trend into the future based on the user's selected "months to predict" slider.
 5. **Visualization**: Plots historical data (blue) and predicted data (red) on a unified timeline for clear comparison.
 
-## ⚙️ Setup & Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Lakshya96366/Predictive-Sales-Analytics-Dashboard.git
-   cd Predictive-Sales-Analytics-Dashboard
